@@ -32,7 +32,9 @@ export default function Home() {
 
       <h2>Relationship to GiveQuest</h2>
       <p>
-        Quest Makers is a for-profit entity and does not accept charitable donations. All charitable contributions are processed separately through GiveQuest.
+      Quest Makers is a for-profit company that creates and operates interactive treasure hunt experiences.
+  Payments made to Quest Makers support operations, events, prizes, and platform growth and are not charitable donations.
+  Charitable contributions are handled separately through GiveQuest.
       </p>
 
       <h2>Support</h2>
