@@ -23,7 +23,7 @@ export default function Home() {
 
       <h2>Revenue Model</h2>
       <p>
-        Quest Makers generates revenue through sponsorships, promotional partnerships, advertising, and optional community support subscriptions.
+        Quest Makers generates revenue through sponsorships, promotional partnerships, advertising, and optional customer support subscriptions.
       </p>
 
       <p>
